@@ -10,15 +10,18 @@
 - C语言编程，编译工具链深入了解
 - 数据结构与算法
 - 系统编程、驱动编程、基础网络编程
+- 网络多媒体通信
 
 ## 经典源码
 - Linux内核源码分析
 - OpenHarmony源码分析
 - Redis源码分析
 - OceanBase源码分析
+- WukongIM/LiveKit源码分析
 
 ## 项目实战
 - 将OpenHarmony移植到RaspberryPi
+- 基于WukongIM/LiveKit搭建一个智能摄像头对话系统
 
 ## 开源项目
 - TuringPi
